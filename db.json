@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": " Hi daddy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": " Yamete kudasai",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": " oniichan",
+      "important": true
+    },
+    {
+      "content": "ara ara",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "eOw phfOuhszx whOrld,.,.,",
+      "important": false,
+      "id": 5
+    }
+  ]
+}
